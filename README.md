@@ -1,2 +1,2 @@
-# Rjesh-Triad
+# Rajesh-Triad
 for learners
